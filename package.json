@@ -1,0 +1,25 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliyaMandr98/selenium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YuliyaMandr98/selenium/issues"
+  },
+  "homepage": "https://github.com/YuliyaMandr98/selenium#readme",
+  "dependencies": {
+    "chromedriver": "^136.0.0",
+    "selenium-webdriver": "^4.32.0"
+  }
+}
